@@ -1,1 +1,7 @@
 {"time":"2025-04-13T20:07:45.0760226+05:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"c:\\Users\\wania\\OneDrive\\Documents\\Semester-6 (FAST)\\Machine Learning\\Assignment#03\\wandb\\run-20250413_200743-33vaqyb5\\logs\\debug-core.log"}
+{"time":"2025-04-13T20:07:45.5576615+05:00","level":"INFO","msg":"created new stream","id":"33vaqyb5"}
+{"time":"2025-04-13T20:07:45.5582366+05:00","level":"INFO","msg":"stream: started","id":"33vaqyb5"}
+{"time":"2025-04-13T20:07:45.5582366+05:00","level":"INFO","msg":"writer: Do: started","stream_id":"33vaqyb5"}
+{"time":"2025-04-13T20:07:45.5582366+05:00","level":"INFO","msg":"sender: started","stream_id":"33vaqyb5"}
+{"time":"2025-04-13T20:07:45.5582366+05:00","level":"INFO","msg":"handler: started","stream_id":"33vaqyb5"}
+{"time":"2025-04-13T20:07:45.978758+05:00","level":"INFO","msg":"Starting system monitor"}
