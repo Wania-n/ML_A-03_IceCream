@@ -1,0 +1,31 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "CPython 3.12.5",
+  "startedAt": "2025-04-13T15:07:06.994814Z",
+  "program": "c:\\Users\\wania\\OneDrive\\Documents\\Semester-6 (FAST)\\Machine Learning\\Assignment#03\\22i-2369_ML_A3.ipynb",
+  "codePath": "22i-2369_ML_A3.ipynb",
+  "git": {
+    "remote": "https://github.com/Wania-n/ML_A-03_Student-Performance.git",
+    "commit": "26f1df06940283c6165f403ddddb8fb730e45324"
+  },
+  "email": "wanianaeem48@gmail.com",
+  "root": "c:\\Users\\wania\\OneDrive\\Documents\\Semester-6 (FAST)\\Machine Learning\\Assignment#03",
+  "host": "Envious",
+  "executable": "c:\\Users\\wania\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "codePathLocal": "22i-2369_ML_A3.ipynb",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "404876161024",
+      "used": "297672220672"
+    }
+  },
+  "memory": {
+    "total": "8323588096"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}

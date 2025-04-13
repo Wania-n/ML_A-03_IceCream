@@ -1,0 +1,18 @@
+{"time":"2025-04-13T20:07:07.0278184+05:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"c:\\Users\\wania\\OneDrive\\Documents\\Semester-6 (FAST)\\Machine Learning\\Assignment#03\\wandb\\run-20250413_200706-gaecd6vp\\logs\\debug-core.log"}
+{"time":"2025-04-13T20:07:08.797979+05:00","level":"INFO","msg":"created new stream","id":"gaecd6vp"}
+{"time":"2025-04-13T20:07:08.797979+05:00","level":"INFO","msg":"stream: started","id":"gaecd6vp"}
+{"time":"2025-04-13T20:07:08.7984969+05:00","level":"INFO","msg":"handler: started","stream_id":"gaecd6vp"}
+{"time":"2025-04-13T20:07:08.7984969+05:00","level":"INFO","msg":"sender: started","stream_id":"gaecd6vp"}
+{"time":"2025-04-13T20:07:08.7984969+05:00","level":"INFO","msg":"writer: Do: started","stream_id":"gaecd6vp"}
+{"time":"2025-04-13T20:07:09.9217891+05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-13T20:07:10.3743853+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-13T20:07:43.2561714+05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-13T20:07:43.2920879+05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-13T20:07:43.2920879+05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-13T20:07:44.3099094+05:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.3767357,"progress":"180B/180B"},{"desc":"uploading output.log","runtime_seconds":0.3767357}],"total_operations":2}}
+{"time":"2025-04-13T20:07:44.6701444+05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-13T20:07:45.0710472+05:00","level":"INFO","msg":"stream: closing","id":"gaecd6vp"}
+{"time":"2025-04-13T20:07:45.0720436+05:00","level":"INFO","msg":"handler: closed","stream_id":"gaecd6vp"}
+{"time":"2025-04-13T20:07:45.0720436+05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"gaecd6vp"}
+{"time":"2025-04-13T20:07:45.0720436+05:00","level":"INFO","msg":"sender: closed","stream_id":"gaecd6vp"}
+{"time":"2025-04-13T20:07:45.0720436+05:00","level":"INFO","msg":"stream: closed","id":"gaecd6vp"}
