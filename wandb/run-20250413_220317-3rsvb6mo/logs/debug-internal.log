@@ -1,1 +1,10 @@
 {"time":"2025-04-13T22:03:17.4622413+05:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"c:\\Users\\wania\\OneDrive\\Documents\\Semester-6 (FAST)\\Machine Learning\\Assignment#03\\wandb\\run-20250413_220317-3rsvb6mo\\logs\\debug-core.log"}
+{"time":"2025-04-13T22:03:19.333559+05:00","level":"INFO","msg":"created new stream","id":"3rsvb6mo"}
+{"time":"2025-04-13T22:03:19.3340918+05:00","level":"INFO","msg":"stream: started","id":"3rsvb6mo"}
+{"time":"2025-04-13T22:03:19.3340918+05:00","level":"INFO","msg":"handler: started","stream_id":"3rsvb6mo"}
+{"time":"2025-04-13T22:03:19.3346533+05:00","level":"INFO","msg":"sender: started","stream_id":"3rsvb6mo"}
+{"time":"2025-04-13T22:03:19.3346533+05:00","level":"INFO","msg":"writer: Do: started","stream_id":"3rsvb6mo"}
+{"time":"2025-04-13T22:03:20.4174628+05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-13T22:03:20.7905724+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-13T22:04:37.1754102+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/wanianaeem48-national-university-of-computer-and-emergin/icecream-temp-regression/3rsvb6mo/file_stream\": unexpected EOF"}
+{"time":"2025-04-13T22:08:48.7172792+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/wanianaeem48-national-university-of-computer-and-emergin/icecream-temp-regression/3rsvb6mo/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}

@@ -17,3 +17,11 @@ config: {'model': 'LinearRegression', '_wandb': {}}
 2025-04-13 22:03:17,660 INFO    MainThread:38104 [wandb_run.py:_label_probe_notebook():1277] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 13004291: character maps to <undefined>
 2025-04-13 22:03:17,662 INFO    MainThread:38104 [wandb_init.py:init():915] updated telemetry
 2025-04-13 22:03:17,751 INFO    MainThread:38104 [wandb_init.py:init():939] communicating run to backend with 90.0 second timeout
+2025-04-13 22:03:20,414 INFO    MainThread:38104 [wandb_init.py:init():1014] starting run threads in backend
+2025-04-13 22:03:20,778 INFO    MainThread:38104 [wandb_run.py:_console_start():2454] atexit reg
+2025-04-13 22:03:20,778 INFO    MainThread:38104 [wandb_run.py:_redirect():2306] redirect: wrap_raw
+2025-04-13 22:03:20,779 INFO    MainThread:38104 [wandb_run.py:_redirect():2371] Wrapping output streams.
+2025-04-13 22:03:20,779 INFO    MainThread:38104 [wandb_run.py:_redirect():2394] Redirects installed.
+2025-04-13 22:03:20,785 INFO    MainThread:38104 [wandb_init.py:init():1056] run started, returning control to user process
+2025-04-13 22:03:20,790 INFO    MainThread:38104 [jupyter.py:save_ipynb():384] [no run ID] not saving jupyter notebook
+2025-04-13 22:03:20,790 INFO    MainThread:38104 [wandb_init.py:_pause_backend():546] [no run ID] pausing backend
